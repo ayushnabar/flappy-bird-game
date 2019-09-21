@@ -1,0 +1,16 @@
+
+THIS IS HOW TO PLAY!
+
+Gravity is always present. If no key is pressed, you will fall to your death. <3
+
+Click "W" to jump; hold down to start flying. Be careful, with great power comes great responsibility.
+
+Use "A" to strafe to the left; Use "D" to strafe right. You cannot extend the game boundaries.
+
+On the easiest level, obstacles will spawn from only the right side. You will start from the left.
+
+On medium level, the obstacles will be moving faster.
+
+On the hard level, the obstacles will spawn from both the left and right side at normal speed. You will start at the center.
+
+On the extra hard level...good luck :D.
